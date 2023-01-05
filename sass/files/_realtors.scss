@@ -1,0 +1,6 @@
+@use './variables' as var;
+
+.realtors {
+	background-color: var.$color-secondary;
+	grid-column: col-start 7 / full-end;
+}
