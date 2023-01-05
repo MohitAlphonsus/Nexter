@@ -4,7 +4,7 @@
 	"description": "'project about selling luxury homes created with grid layout'",
 	"main": "index.js",
 	"scripts": {
-		"compile:sass": "sass sass/main.scss css/styles.css -w"
+		"watch:sass": "sass sass/main.scss css/styles.css -w"
 	},
 	"author": "mohit",
 	"license": "ISC"
